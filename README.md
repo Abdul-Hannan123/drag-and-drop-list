@@ -20,3 +20,15 @@ Users can drag list items from one container and drop them into another containe
 - CSS3
 - JavaScript
 - HTML5 Drag and Drop API
+
+## 🎯 Purpose
+
+- This project was created to practice:
+- DOM manipulation
+- JavaScript event listeners
+- HTML5 Drag and Drop API
+- Handling drag events
+- Moving elements dynamically
+- CSS layouts and styling
+- Interactive web development
+
