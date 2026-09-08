@@ -32,3 +32,22 @@ Users can drag list items from one container and drop them into another containe
 - CSS layouts and styling
 - Interactive web development
 
+## 📸 Preview
+
+<img width="958" height="435" alt="result" src="https://github.com/user-attachments/assets/473e79eb-a5ac-43aa-9432-b3b7665c268a" />
+
+## 🌱 Future Improvements
+
+- Add the ability to create new list items
+- Add delete functionality
+- Add item reordering within the same container
+- Add animations during dragging
+- Add localStorage to save the list state
+- Add mobile/touch support
+- Add a reset button
+
+## 👨‍💻 Author
+
+- Abdul Hannan Zahid
+
+Frontend Developer | BSCS Student
